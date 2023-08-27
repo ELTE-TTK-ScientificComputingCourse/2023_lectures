@@ -55,23 +55,23 @@ beépített Python függvények és operátorok kiterjesztése általunk defini�
 További fejezetek az OOP-ből, egyéb mágikus osztálymetódusok: rendezés, a callable osztály.
 
 
-### 7. óra
+## 7. óra
 
 OOP: öröklődés (csak érintőlegesen), a Python sztenderd könyvtár néhány modulja.
 
 A funkcionális programozási paradigma, `map` és `filter`. Generátorok, `next` és `yield`. Az itertools könyvtár. Végtelen sorozatok kezelése. Imperatív vs. funkcionális stílus.
 
 
-### 8. óra
+## 8. óra
 
 A numpy könyvár alapjai. Vektorok és mátrixok készítése, indexelés. Vektor és mátrixműveletek, mátrix determináns, inverz, lineáris egyenletrendszerek megoldása. Egyszerű matplotlib ábrák készítése.
 
 
-### 9. óra
+## 9. óra
 
 A pandas könyvtár, egy táblázatos adatsor elemzése és ábrák készítése. A föld népességének változása, illetve egy időjárási adatokat tartalmazó adat elemzése.
 
 
-### 10. órától
+## 10. órától
 
 Algoritmikus gondolkodás. Számelméleti algoritmusok, prímszámok, oszthatóság, legnagyobb közös osztó, számelméleti függvények, mátrixok determinánsa, kifejtési tétel. Gráfelméleti algoritmusok: gráfok bejárása, szélességi keresés, összefüggő komponensek. A sor (queue), mint absztrakt adattípus. Egy valós példa: repülőjáratok, legkevesebb átszállás városok között, legrövidebb út városok között, Dijkstra algoritmus.
