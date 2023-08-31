@@ -42,8 +42,7 @@ Kivételek kezelése.
 
 ## 5. óra
 
-Szöveges fájlok beolvasása. Néhány algoritmustervezési módszer a Fibonacci-számok példáján keresztül: rekurzió, memoization (cache-elés), dinamikus programozás(-szerűség), brute-force. A
-`2-SUM` feladat burute-force megoldása. Mese programozási paradigmákról, bevezetés az OOP-be. Osztály, példány. Osztályok
+Szöveges fájlok beolvasása. Néhány algoritmustervezési módszer a Fibonacci-számok példáján keresztül: rekurzió, memoization (cache-elés), dinamikus programozás(-szerűség). A `2-SUM` feladat brute-force megoldása. Mese programozási paradigmákról, bevezetés az OOP-be. Osztály, példány. Osztályok
 alkalmazása: 1) állapotot akarunk fenntartani, pl. bankszámla vezetés, 2) adatot tárolunk és manipulálunk úgy, hogy a részleteket elrejtjük a felhasználó elől (encapsulation, abstraction).
 
 
